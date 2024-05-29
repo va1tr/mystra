@@ -1,0 +1,26 @@
+{
+    "name": "Mystra",
+    "rootNamespace": "Mystra",
+    "references": [
+        "GUID:22fe4bd629a614dba871fadf2a495e87",
+        "GUID:55310d19dd4cf4b0abc0414f62481e45",
+        "GUID:07616c3ff9f9c4cbd8cacec532d7a398",
+        "GUID:2b1ab74285a7b43a5b5fb1df41f6498d"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "macOSStandalone",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

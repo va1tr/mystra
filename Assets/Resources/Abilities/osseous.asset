@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ff7d039f17d040db8907f9402f9f5c9, type: 3}
+  m_Name: osseous
+  m_EditorClassIdentifier: 
+  m_Description: 
+  m_Effect: {fileID: 11400000, guid: 294fdd249f84649d1a985d26eabc3a73, type: 2}
+  m_Container:
+    type: 0
+    power: 50
+    accuracy: 100
+    modifiers: []

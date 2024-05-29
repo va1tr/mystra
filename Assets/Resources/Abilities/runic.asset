@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7f3d3751c92c443b98345c3e55d9fd7, type: 3}
+  m_Name: runic
+  m_EditorClassIdentifier: 
+  m_Description: A STRONG MAGICAL blast dealing ANCIENT damage
+  m_Effect: {fileID: 11400000, guid: 294fdd249f84649d1a985d26eabc3a73, type: 2}
+  m_Container:
+    type: 0
+    power: 90
+    accuracy: 50
+    modifiers: []
+  m_Sprites:
+  - {fileID: 1131394298, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: -1629977194, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: 1998658371, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: -1310954316, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: 551717512, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: 1794026578, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: -1368566471, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: 1568835372, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: -1828251119, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: -1488791431, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}
+  - {fileID: -755236031, guid: 552ae4cf88ede454b9bf8b155ad984b8, type: 3}

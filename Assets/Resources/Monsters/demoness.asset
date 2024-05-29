@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06bfdca3127f46d697e46fc5e5d81a7, type: 3}
+  m_Name: demoness
+  m_EditorClassIdentifier: 
+  m_Sprites:
+  - {fileID: 2115782064, guid: f0bcb1cc1584d4ee8a51ed305c0449eb, type: 3}
+  - {fileID: 1588591350, guid: f0bcb1cc1584d4ee8a51ed305c0449eb, type: 3}
+  - {fileID: -1254668974, guid: f0bcb1cc1584d4ee8a51ed305c0449eb, type: 3}
+  - {fileID: 1527728947, guid: f0bcb1cc1584d4ee8a51ed305c0449eb, type: 3}
+  m_Health: 45
+  m_Attack: 49
+  m_Defence: 49
+  m_Speed: 45
+  m_level: 5
+  m_Experience: 64
+  m_Abilities:
+  - m_Ability: {fileID: 11400000, guid: b6e0bfcecefb9414182a34ca11be1452, type: 2}
+    m_LevelRequired: 0
+  - m_Ability: {fileID: 11400000, guid: dd0618e67e097481cb5706aaeb070e85, type: 2}
+    m_LevelRequired: 0
+  m_Trait: {fileID: 11400000, guid: 0bbd23ff03f9b4bae8de893f87713821, type: 2}

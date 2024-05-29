@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0149db792bf3d4a03bc06ca3b84716bd, type: 3}
+  m_Name: random-encounter-runtime-set
+  m_EditorClassIdentifier: 
+  m_Collection:
+  - asset: {fileID: 11400000, guid: ebe8bf0594157411b91aa57104d1c0e4, type: 2}
+    level: 5
+    encounterRate: 50
+  - asset: {fileID: 11400000, guid: 560365f6e05644434bb7c440a86340b0, type: 2}
+    level: 5
+    encounterRate: 50
